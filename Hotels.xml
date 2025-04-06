@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
+    <Hotel Rating="4.2">
+        <Name>Hyatt Place</Name>
+        <Phone>480-207-1578</Phone>
+        <Address NearstAirport="Sky Harbor International Airport">
+            <Number>601</Number>
+            <Street>E 6th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.3">
+        <Name>Marriott Phoenix Resort</Name>
+        <Phone>602-225-9000</Phone>
+        <Address NearstAirport="Sky Harbor International Airport">
+            <Number>2000</Number>
+            <Street>W Westcourt Way</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85282</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>The Westin Riverfront Resort And Spa</Name>
+        <Phone>970-790-6000</Phone>
+        <Address NearstAirport="Denver International Airport">
+            <Number>126</Number>
+            <Street>Riverfront Ln</Street>
+            <City>Avon</City>
+            <State>CO</State>
+            <Zip>81620</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>DoubleTree by Hilton Hotel</Name>
+        <Phone></Phone>
+        <Address NearstAirport="Flagstaff Pulliam Airport">
+            <Number>1175</Number>
+            <Street>W Rte 66</Street>
+            <City>Flagstaff</City>
+            <State>AZ</State>
+            <Zip>86001</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.3">
+        <Name>Holiday Inn Orlando-Disney Springs</Name>
+        <Phone>407-828-8888</Phone>
+        <Phone>888-465-4329</Phone>
+        <Address NearstAirport="Orlando International Airport">
+            <Number>1805</Number>
+            <Street>Hotel Plaza Blvd</Street>
+            <City>Lake Buena Vista</City>
+            <State>FL</State>
+            <Zip>32830</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.6">
+        <Name>Hollywood Inn Express LAX</Name>
+        <Phone>310-419-1011</Phone>
+        <Address NearstAirport="Los Angeles International Airport">
+            <Number>4300</Number>
+            <Street>W Century Blvd</Street>
+            <City>Inglewood</City>
+            <State>CA</State>
+            <Zip>90304</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.3">
+        <Name>Days Inn by Wyndham</Name>
+        <Phone>202-244-5600</Phone>
+        <Address NearstAirport="Washington DC Dulles Airport">
+            <Number>4400</Number>
+            <Street>Connecticut Ave NW</Street>
+            <City>Washington</City>
+            <State>DC</State>
+            <Zip>20008</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Crowne Plaza Chicago West Loop</Name>
+        <Phone>312-829-5000</Phone>
+        <Phone>877-227-6963</Phone>
+        <Address NearstAirport="Chicago O'Hare International Airport">
+            <Number>25</Number>
+            <Street>S Halsted St</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60661</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.3">
+        <Name>The Eddy Hotel Tucson</Name>
+        <Phone>520-297-8624</Phone>
+        <Address NearstAirport="Tucson International Airport">
+            <Number>4626</Number>
+            <Street>N Campbell Ave</Street>
+            <City>Tucson</City>
+            <State>AZ</State>
+            <Zip>85718</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Hyatt Regency Mission Bay Spa and Marina</Name>
+        <Phone>619-224-1234</Phone>
+        <Address NearstAirport="San Diego International Airport">
+            <Number>1441</Number>
+            <Street>Quivira Rd</Street>
+            <City>San Diego</City>
+            <State>CA</State>
+            <Zip>92109</Zip>
+        </Address>
+    </Hotel>
+</Hotels>
