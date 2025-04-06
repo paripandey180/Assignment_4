@@ -6,7 +6,7 @@ xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
     <Hotel Rating="4.2">
         <Name>Hyatt Place</Name>
         <Phone>480-207-1578</Phone>
-        <Address NearestAirport="Sky Harbor International Airport">
+        <Address NearstAirport="Sky Harbor International Airport">
             <Number>601</Number>
             <Street>E 6th St</Street>
             <City>Tempe</City>
@@ -18,7 +18,7 @@ xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
     <Hotel Rating="4.3">
         <Name>Marriott Phoenix Resort</Name>
         <Phone>602-225-9000</Phone>
-        <Address NearestAirport="Sky Harbor International Airport">
+        <Address NearstAirport="Sky Harbor International Airport">
             <Number>2000</Number>
             <Street>W Westcourt Way</Street>
             <City>Tempe</City>
@@ -30,7 +30,7 @@ xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
     <Hotel>
         <Name>The Westin Riverfront Resort And Spa</Name>
         <Phone>970-790-6000</Phone>
-        <Address NearestAirport="Denver International Airport">
+        <Address NearstAirport="Denver International Airport">
             <Number>126</Number>
             <Street>Riverfront Ln</Street>
             <City>Avon</City>
@@ -55,7 +55,7 @@ xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
         <Name>Holiday Inn Orlando-Disney Springs</Name>
         <Phone>407-828-8888</Phone>
         <Phone>888-465-4329</Phone>
-        <Address NearestAirport="Orlando International Airport">
+        <Address NearstAirport="Orlando International Airport">
             <Number>1805</Number>
             <Street>Hotel Plaza Blvd</Street>
             <City>Lake Buena Vista</City>
@@ -67,7 +67,7 @@ xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
     <Hotel Rating="3.6">
         <Name>Hollywood Inn Express LAX</Name>
         <Phone>310-419-1011</Phone>
-        <Address NearestAirport="Los Angeles International Airport">
+        <Address NearstAirport="Los Angeles International Airport">
             <Number>4300</Number>
             <Street>W Century Blvd</Street>
             <City>Inglewood</City>
@@ -79,7 +79,7 @@ xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
     <Hotel Rating="3.3">
         <Name>Days Inn by Wyndham</Name>
         <Phone>202-244-5600</Phone>
-        <Address NearestAirport="Washington DC Dulles Airport">
+        <Address NearstAirport="Washington DC Dulles Airport">
             <Number>4400</Number>
             <Street>Connecticut Ave NW</Street>
             <City>Washington</City>
@@ -92,7 +92,7 @@ xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
         <Name>Crowne Plaza Chicago West Loop</Name>
         <Phone>312-829-5000</Phone>
         <Phone>877-227-6963</Phone>
-        <Address NearestAirport="Chicago O'Hare International Airport">
+        <Address NearstAirport="Chicago O'Hare International Airport">
             <Number>25</Number>
             <Street>S Halsted St</Street>
             <City>Chicago</City>
@@ -104,7 +104,7 @@ xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
         <Name>The Eddy Hotel Tucson</Name>
         <Name>The Eddy Hotel Tucson</Name>
         <Phone>520-297-8624</Phone>
-        <Address NearestAirport="Tucson International Airport">
+        <Address NearstAirport="Tucson International Airport">
             <Number>4626</Number>
             <Street>N Campbell Ave</Street>
             <City>Tucson</City>
@@ -115,7 +115,7 @@ xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
 
     <Hotel>
         <Name>Hyatt Regency Mission Bay Spa and Marina</Name>
-        <Address NearestAirport="San Diego International Airport">
+        <Address NearstAirport="San Diego International Airport">
             <Number>1441</Number>
             <Street>Quivira Rd</Street>
             <City>San Diego</City>
