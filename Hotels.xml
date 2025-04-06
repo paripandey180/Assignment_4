@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
 
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema"
-xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
     <Hotel Rating="4.2">
         <Name>Hyatt Place</Name>
         <Phone>480-207-1578</Phone>
@@ -41,7 +41,7 @@ xsi:schemaLocation="https://paripandey180.github.io/Assignment_4/Hotels.xsd">
 
     <Hotel>
         <Name>DoubleTree by Hilton Hotel</Name>
-        <Phone></Phone>
+        <Phone>928-773-8888</Phone>
         <Address NearstAirport="Flagstaff Pulliam Airport">
             <Number>1175</Number>
             <Street>W Rte 66</Street>
